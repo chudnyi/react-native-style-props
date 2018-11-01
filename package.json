@@ -5,13 +5,14 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc -p ."
   },
   "author": "dmitriy@chudnyi.com",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chudnyi/mobx-validation.git"
+    "url": "git+https://github.com/chudnyi/react-native-style-props.git"
   },
   "devDependencies": {
     "@types/react": "^16.4.14",
