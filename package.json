@@ -22,7 +22,7 @@
     "typescript": "^3.0.1"
   },
   "peerDependencies": {
-    "react": "16.6.0-alpha.8af6728",
-    "react-native": "^0.57.3"
+    "react": "*",
+    "react-native": "*"
   }
 }

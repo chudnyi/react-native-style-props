@@ -1,3 +1,3 @@
 export function myAwesomeFunction() {
-  console.log('myAwesomeFunction');
+  console.log('myAwesomeFunction!');
 }
