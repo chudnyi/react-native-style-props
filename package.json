@@ -1,0 +1,27 @@
+{
+  "name": "react-native-style-props",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dmitriy@chudnyi.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chudnyi/mobx-validation.git"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.14",
+    "@types/react-native": "^0.57.1",
+    "tslib": "^1.9.3",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "peerDependencies": {
+    "react": "16.6.0-alpha.8af6728",
+    "react-native": "^0.57.3"
+  }
+}

@@ -1,0 +1,8 @@
+src/
+node_modules/
+.idea/
+examples/
+npm-shrinkwrap.json
+.gitignore
+tslint.json
+tsconfig.json
